@@ -1,9 +1,9 @@
-SELECT 
-    *
-FROM
-    coviddeaths
-Where continent not like ''
-ORDER BY 3 , 4;
+/*
+Covid 19 Data Exploration 
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views
+
+*/
 
 SELECT 
     *
